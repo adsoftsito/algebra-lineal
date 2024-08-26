@@ -5,3 +5,6 @@ Class [List](https://docs.google.com/spreadsheets/d/1zndomAMJJznwZJD-eLS4exSGYtm
 
 # Week 1
 Slides [w1](https://docs.google.com/presentation/d/1HMYVROc-NFqlMsnX2VNYmtoYF9gXkEhKQP6I_XWnQnM/edit?usp=sharing)
+
+# Week 2
+Slides [w2](https://docs.google.com/presentation/d/1Ib4mndgfFcbM9bnWyVFD20n9amSdQLZzb57_KCHbDXk/edit?usp=sharing)
