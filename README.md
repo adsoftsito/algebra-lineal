@@ -8,3 +8,6 @@ Slides [w1](https://docs.google.com/presentation/d/1HMYVROc-NFqlMsnX2VNYmtoYF9gX
 
 # Week 2
 Slides [w2](https://docs.google.com/presentation/d/1Ib4mndgfFcbM9bnWyVFD20n9amSdQLZzb57_KCHbDXk/edit?usp=sharing)
+
+# Week 3
+Slides [w3](https://docs.google.com/presentation/d/1Kb979skP4J6fAZZQQh7mn7D-7ZNmfci1gCBdTHdBGSc/edit?usp=sharing)
