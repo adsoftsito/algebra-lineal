@@ -1,4 +1,4 @@
-# algebra-lineal
+<img width="174" alt="image" src="https://github.com/user-attachments/assets/6b877b59-4b53-4c2f-b997-7c8ca6b82800"># algebra-lineal
 [Sylabus](https://github.com/adsoftsito/algebra-lineal/blob/main/sylabus_algebra_lineal.pdf)
 
 Class [List](https://docs.google.com/spreadsheets/d/1zndomAMJJznwZJD-eLS4exSGYtmk4_rszro0GHjE-dE/edit?usp=sharing)
@@ -12,3 +12,6 @@ Slides [w2](https://docs.google.com/presentation/d/1Ib4mndgfFcbM9bnWyVFD20n9amSd
 
 # Week 3
 Slides [w3](https://docs.google.com/presentation/d/1Kb979skP4J6fAZZQQh7mn7D-7ZNmfci1gCBdTHdBGSc/edit?usp=sharing)
+
+# Week 4
+Slides [w4](https://docs.google.com/presentation/d/1BzJcKQuVLCQU3LXaC8PsCJsA76udg8YqKAMYq-zPLTE/edit?usp=sharing)
