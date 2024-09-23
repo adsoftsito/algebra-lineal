@@ -15,3 +15,6 @@ Slides [w3](https://docs.google.com/presentation/d/1Kb979skP4J6fAZZQQh7mn7D-7ZNm
 
 # Week 4
 Slides [w4](https://docs.google.com/presentation/d/1BzJcKQuVLCQU3LXaC8PsCJsA76udg8YqKAMYq-zPLTE/edit?usp=sharing)
+
+# Week 5
+Slides [w5](https://github.com/adsoftsito/algebra-lineal/blob/main/operaciones_matrices_adicionales.pdf)
