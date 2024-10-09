@@ -21,3 +21,8 @@ Slides [w5](https://github.com/adsoftsito/algebra-lineal/blob/main/operaciones_m
 
 # Week 6
 Slides [w6](https://docs.google.com/presentation/d/1MoL0pOzVxVSmosgjj-vt2RZHrDwjLDNO47vXTTSQVb8/edit?usp=sharing)
+
+#Parcial 2
+
+# Week 7
+Slides [w7](https://docs.google.com/presentation/d/1JDQskgjy-WTR-LNI4eQTE_DN4xjYHScMAacJCCYD1og/edit?usp=sharing)
