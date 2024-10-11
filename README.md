@@ -4,6 +4,8 @@
 Class [List](https://docs.google.com/spreadsheets/d/1zndomAMJJznwZJD-eLS4exSGYtmk4_rszro0GHjE-dE/edit?usp=sharing)
 Excel [Par1](https://docs.google.com/spreadsheets/d/1m1NhV67dL288R6CV5k1vE9jefP3UP9LOWI7EE2qgc8g/edit?usp=sharing)
 
+[Parcial 2](https://docs.google.com/spreadsheets/d/133f-jtJLGyBNAliqmZ7pQNjgFK3a_rjC7x8H1YMedjA/edit?usp=sharing)
+
 # Week 1
 Slides [w1](https://docs.google.com/presentation/d/1HMYVROc-NFqlMsnX2VNYmtoYF9gXkEhKQP6I_XWnQnM/edit?usp=sharing)
 
