@@ -28,3 +28,6 @@ Slides [w6](https://docs.google.com/presentation/d/1MoL0pOzVxVSmosgjj-vt2RZHrDwj
 
 # Week 7
 Slides [w7](https://docs.google.com/presentation/d/1JDQskgjy-WTR-LNI4eQTE_DN4xjYHScMAacJCCYD1og/edit?usp=sharing)
+
+# Week 8
+Slides [w8](https://docs.google.com/presentation/d/1iRkRdj99Mlz6ItgYpF1Lyl78dgBg8afaeqwsU92F8xs/edit?usp=sharing)
