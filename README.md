@@ -37,3 +37,6 @@ Slides [w9](https://docs.google.com/presentation/d/14TtV8z06RODJbZiNbmraHCSdQMnp
 
 # Week 10
 Slides [w10](https://docs.google.com/presentation/d/1pc72mWvkiu3anI8xwTgR8j5XQVHEi9S3sKEphqpbQ54/edit?usp=sharing)
+
+# Week 11
+Slides [w11](https://docs.google.com/presentation/d/1yhRVapqUR0gAWfO3OpfU2zFkNDCcLVzK/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
